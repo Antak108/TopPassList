@@ -16,20 +16,20 @@ This Python script provides a solution to filter passwords based on specific cri
 
 ## Applications of the Password Filtering Script
 
-User Authentication Systems: Enhancing password policies in web and mobile applications.
-Database Security: Ensuring strong passwords for database access.
-Network Security: Improving WiFi, router, and VPN password strength.
-Employee Training and Compliance: Educating employees about secure password creation.
-Password Management Tools: Assisting in the generation and validation of strong passwords.
-Educational Purposes: Teaching about password security in courses or workshops.
-Automated Password Testing: Conducting security audits and penetration tests.
-Online Registration Forms: Validating password strength during account creation on websites.
-APIs for Password Validation: Serving as a backend service for other applications.
-Cybersecurity Research: Utilizing in research on password security and user behaviors.
-Compliance with Security Standards: Adhering to organizational and industry-specific security standards.
-IAM Solutions Integration: Enhancing password policy enforcement in Identity and Access Management systems.
-Azure B2C Custom Password Validation: Customizing identity experiences for users.
-Azure Active Directory Enhancements: Strengthening password policies in organizational environments.
+- User Authentication Systems: Enhancing password policies in web and mobile applications.
+- Database Security: Ensuring strong passwords for database access.
+- Network Security: Improving WiFi, router, and VPN password strength.
+- Employee Training and Compliance: Educating employees about secure password creation.
+- Password Management Tools: Assisting in the generation and validation of strong passwords.
+- Educational Purposes: Teaching about password security in courses or workshops.
+- Automated Password Testing: Conducting security audits and penetration tests.
+- Online Registration Forms: Validating password strength during account creation on websites.
+- APIs for Password Validation: Serving as a backend service for other applications.
+- Cybersecurity Research: Utilizing in research on password security and user behaviors.
+- Compliance with Security Standards: Adhering to organizational and industry-specific security standards.
+- IAM Solutions Integration: Enhancing password policy enforcement in Identity and Access Management systems.
+- Azure B2C Custom Password Validation: Customizing identity experiences for users.
+- Azure Active Directory Enhancements: Strengthening password policies in organizational environments.
 
 ### Prerequisites
 - Python 3.x installed on your system.
